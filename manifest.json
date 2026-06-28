@@ -1,0 +1,7 @@
+{
+  "name": "Salary Budget Coach",
+  "short_name": "BudgetCoach",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff"
+}
